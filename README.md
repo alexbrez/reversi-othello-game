@@ -18,6 +18,7 @@ Reversi is a two-player strategy board game. Players take turns placing their pi
  - Dynamic Board Display: The board updates after every move, showing the current game state.
 
 🖥️ How to Play
+
 1.Clone the repository:
    - git clone https://github.com/your-username/reversi-ai.git
    - cd reversi-ai
